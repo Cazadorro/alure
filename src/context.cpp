@@ -16,6 +16,7 @@
 #include "alc.h"
 
 #include "alerror.h"
+#include "util.h"
 
 #ifdef HAVE_WAVE
 #include "decoders/wave.hpp"

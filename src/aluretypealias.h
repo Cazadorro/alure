@@ -14,11 +14,6 @@ using ALfloatPair = std::pair<ALfloat,ALfloat>;
 using ALuintPair = std::pair<ALuint,ALuint>;
 using BoolTriple = std::tuple<bool,bool,bool>;
 
-
-template<typename T>
-inline std::future_status GetFutureState(const SharedFuture<T> &future)
-{ return future.wait_for(std::chrono::seconds::zero()); }
-
 // This variant is a poor man's optional
 std::variant<std::monostate,uint64_t> ParseTimeval(StringView strval, double srate) noexcept;
 

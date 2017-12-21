@@ -16,6 +16,7 @@
 
 #include "utilmacros.h"
 #include "alerror.h"
+#include "util.h"
 namespace alure
 {
 
