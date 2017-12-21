@@ -14,6 +14,8 @@
 #include "auxeffectslot.h"
 #include "sourcegroup.h"
 
+#include "utilmacros.h"
+#include "alerror.h"
 namespace alure
 {
 

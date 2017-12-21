@@ -12,6 +12,9 @@
 #include "alc.h"
 #include "al.h"
 
+#include "utilmacros.h"
+#include "alerror.h"
+
 
 namespace alure {
 

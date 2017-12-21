@@ -12,6 +12,9 @@
 #include "context.h"
 #include "buffer.h"
 
+#include "alerror.h"
+
+#include "utilmacros.h"
 
 namespace {
 

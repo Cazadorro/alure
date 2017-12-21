@@ -4,7 +4,7 @@
 #include <mutex>
 
 #include "main.h"
-
+#include "bitfield.h"
 
 namespace alure {
 

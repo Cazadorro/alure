@@ -8,6 +8,8 @@
 #include "context.h"
 #include "effect.h"
 
+#include "alerror.h"
+
 namespace alure {
 
 static inline bool operator<(const SourceSend &lhs, const SourceSend &rhs)

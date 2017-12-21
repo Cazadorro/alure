@@ -5,6 +5,7 @@
 
 #include "source.h"
 #include "context.h"
+#include "utilmacros.h"
 
 namespace alure {
 

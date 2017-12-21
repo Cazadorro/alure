@@ -8,6 +8,8 @@
 
 #include "context.h"
 
+#include "alerror.h"
+
 namespace {
 
 using alure::Array;

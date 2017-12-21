@@ -15,6 +15,8 @@
 #include "device.h"
 #include "source.h"
 
+#include "utilmacros.h"
+#include "c11compat.h"
 
 #define F_PI (3.14159265358979323846f)
 

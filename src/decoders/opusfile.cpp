@@ -8,6 +8,7 @@
 #include "buffer.h"
 
 #include "opusfile.h"
+#include "c11compat.h"
 
 namespace {
 
