@@ -1,7 +1,7 @@
 #ifndef SOURCE_H
 #define SOURCE_H
 
-#include "main.h"
+#include "alurealias.h"
 
 #include <atomic>
 #include <mutex>

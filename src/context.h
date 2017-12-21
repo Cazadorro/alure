@@ -10,7 +10,7 @@
 #include <queue>
 #include <set>
 
-#include "main.h"
+#include "alurealias.h"
 
 #include "device.h"
 #include "source.h"

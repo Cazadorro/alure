@@ -1,7 +1,7 @@
 #ifndef DEVICEMANAGER_H
 #define DEVICEMANAGER_H
 
-#include "main.h"
+#include "alurealias.h"
 
 namespace alure {
 

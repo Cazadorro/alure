@@ -3,7 +3,7 @@
 
 #include <mutex>
 
-#include "main.h"
+#include "alurealias.h"
 #include "bitfield.h"
 
 namespace alure {
