@@ -1,7 +1,7 @@
 #ifndef EFFECT_H
 #define EFFECT_H
 
-#include "alurealias.h"
+#include "aluretypealias.h"
 
 namespace alure {
 

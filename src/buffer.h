@@ -3,7 +3,7 @@
 
 #include <algorithm>
 
-#include "alurealias.h"
+#include "aluretypealias.h"
 
 namespace alure {
 

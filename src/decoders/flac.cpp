@@ -5,7 +5,7 @@
 #include <iostream>
 #include <cstring>
 
-#include "alurealias.h"
+#include "aluretypealias.h"
 
 #include "FLAC/all.h"
 #include "cpp11compat.h"

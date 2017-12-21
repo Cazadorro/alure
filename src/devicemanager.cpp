@@ -3,7 +3,7 @@
 
 #include "devicemanager.h"
 #include "device.h"
-#include "alurealias.h"
+#include "aluretypealias.h"
 
 #include <algorithm>
 #include <stdexcept>

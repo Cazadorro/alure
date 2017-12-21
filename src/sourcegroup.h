@@ -1,7 +1,7 @@
 #ifndef SOURCEGROUP_H
 #define SOURCEGROUP_H
 
-#include "alurealias.h"
+#include "aluretypealias.h"
 
 
 namespace alure
