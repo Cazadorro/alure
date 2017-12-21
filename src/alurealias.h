@@ -2,7 +2,7 @@
 #define ALURE_MAIN_H
 
 #include "alure2.h"
-#include "c11compat.h"
+#include "cpp11compat.h"
 
 namespace alure {
 

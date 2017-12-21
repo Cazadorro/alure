@@ -8,7 +8,7 @@
 #include "alurealias.h"
 
 #include "FLAC/all.h"
-#include "c11compat.h"
+#include "cpp11compat.h"
 
 namespace alure
 {
